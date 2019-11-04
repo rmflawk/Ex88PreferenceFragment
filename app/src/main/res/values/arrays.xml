@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="sounds">
+    <item>툭툭</item>
+    <item>빰빰</item>
+    <item>파파</item>
+</string-array>
+
+
+<string-array name="favors">
+    <item>여행</item>
+    <item>골프</item>
+    <item>수영</item>
+    <item>독서</item>
+</string-array>
+</resources>
